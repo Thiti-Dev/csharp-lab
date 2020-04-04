@@ -1,0 +1,13 @@
+C:\Users\K3sz\Desktop\2020\C-SHARP PROJ\MyFirstCsharp\MyFirstCsharp\bin\Debug\netcoreapp3.1\MyFirstCsharp.exe
+C:\Users\K3sz\Desktop\2020\C-SHARP PROJ\MyFirstCsharp\MyFirstCsharp\bin\Debug\netcoreapp3.1\MyFirstCsharp.deps.json
+C:\Users\K3sz\Desktop\2020\C-SHARP PROJ\MyFirstCsharp\MyFirstCsharp\bin\Debug\netcoreapp3.1\MyFirstCsharp.runtimeconfig.json
+C:\Users\K3sz\Desktop\2020\C-SHARP PROJ\MyFirstCsharp\MyFirstCsharp\bin\Debug\netcoreapp3.1\MyFirstCsharp.runtimeconfig.dev.json
+C:\Users\K3sz\Desktop\2020\C-SHARP PROJ\MyFirstCsharp\MyFirstCsharp\bin\Debug\netcoreapp3.1\MyFirstCsharp.dll
+C:\Users\K3sz\Desktop\2020\C-SHARP PROJ\MyFirstCsharp\MyFirstCsharp\bin\Debug\netcoreapp3.1\MyFirstCsharp.pdb
+C:\Users\K3sz\Desktop\2020\C-SHARP PROJ\MyFirstCsharp\MyFirstCsharp\obj\Debug\netcoreapp3.1\MyFirstCsharp.csprojAssemblyReference.cache
+C:\Users\K3sz\Desktop\2020\C-SHARP PROJ\MyFirstCsharp\MyFirstCsharp\obj\Debug\netcoreapp3.1\MyFirstCsharp.csproj.CoreCompileInputs.cache
+C:\Users\K3sz\Desktop\2020\C-SHARP PROJ\MyFirstCsharp\MyFirstCsharp\obj\Debug\netcoreapp3.1\MyFirstCsharp.AssemblyInfoInputs.cache
+C:\Users\K3sz\Desktop\2020\C-SHARP PROJ\MyFirstCsharp\MyFirstCsharp\obj\Debug\netcoreapp3.1\MyFirstCsharp.AssemblyInfo.cs
+C:\Users\K3sz\Desktop\2020\C-SHARP PROJ\MyFirstCsharp\MyFirstCsharp\obj\Debug\netcoreapp3.1\MyFirstCsharp.dll
+C:\Users\K3sz\Desktop\2020\C-SHARP PROJ\MyFirstCsharp\MyFirstCsharp\obj\Debug\netcoreapp3.1\MyFirstCsharp.pdb
+C:\Users\K3sz\Desktop\2020\C-SHARP PROJ\MyFirstCsharp\MyFirstCsharp\obj\Debug\netcoreapp3.1\MyFirstCsharp.genruntimeconfig.cache

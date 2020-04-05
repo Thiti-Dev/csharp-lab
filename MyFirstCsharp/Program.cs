@@ -39,6 +39,10 @@ namespace MyFirstCsharp
             /*GuessMyNumber.Start();*/
             /*Calculator.TurnOn();*/
             /*LeapYear.IsLeapYear();*/
+            /*ScoreSum.Start();*/
+            /*ArrayPlayGround.Start();*/
+            /*CaesarCipher.Start();*/
+            /*FetchedUrlWordCheck.Start();*/
         }
     }
 }

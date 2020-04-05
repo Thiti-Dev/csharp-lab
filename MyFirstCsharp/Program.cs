@@ -43,6 +43,7 @@ namespace MyFirstCsharp
             /*ArrayPlayGround.Start();*/
             /*CaesarCipher.Start();*/
             /*FetchedUrlWordCheck.Start();*/
+            ObjectOriented.Start();
         }
     }
 }
